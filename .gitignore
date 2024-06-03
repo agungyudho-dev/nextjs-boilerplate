@@ -12,6 +12,7 @@
 # next.js
 /.next/
 /out/
+/.idx/*
 /.idx/
 .dev.nix
 
